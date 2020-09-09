@@ -3,3 +3,7 @@ There are 4 locations (labeled by different letters), and our job is to pick up 
 
 
 ![alt text](https://storage.googleapis.com/lds-media/images/Reinforcement_Learning_Taxi_Env.width-1200.png)
+
+
+## Source: Reinforcement Q-Learning from Scratch in Python with OpenAI Gym
+https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
